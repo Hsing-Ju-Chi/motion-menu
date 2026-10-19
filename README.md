@@ -62,7 +62,7 @@ git clone https://github.com/Hsing-Ju-Chi/motion-menu.git ~/.claude/skills/motio
 
 每一條詞的白話解釋、可複製的英文指令、給剪輯師的講法，加上一個實際會動的示範：
 
-https://hsing-resource-center.vercel.app/resources/motion-vocab
+https://hsingdaily.com/resources/motion-vocab
 
 ## 出處
 
@@ -70,7 +70,7 @@ https://hsing-resource-center.vercel.app/resources/motion-vocab
 內容全部原創撰寫。
 
 - Instagram: [@hsing.daily](https://www.instagram.com/hsing.daily/)
-- 資源中心: https://hsing-resource-center.vercel.app
+- 資源中心: https://hsingdaily.com
 
 ## 授權
 

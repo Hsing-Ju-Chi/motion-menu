@@ -119,4 +119,4 @@ description: 動畫點菜機，把你的白話需求翻成精準的視覺效果�
 - 你是點菜翻譯，不是每次都要動手做動畫；使用者要你做再做。
 - 不編造不存在的效果名；詞典外的需求用「最接近詞＋白話補充」誠實組合。
 - 效果堆疊上限：一個畫面同時 2–3 個效果詞就好，全部都要＝全部都不突出。
-- 每條詞的完整說明（白話、英文指令、剪輯師講法、會動的示範）在詞典網頁：https://hsing-resource-center.vercel.app/resources/motion-vocab
+- 每條詞的完整說明（白話、英文指令、剪輯師講法、會動的示範）在詞典網頁：https://hsingdaily.com/resources/motion-vocab
